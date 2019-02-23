@@ -23,7 +23,7 @@ pub fn is_unique_chars_no_data_structure(string: &str) -> bool {
         let ch = rem.next().unwrap();
         for ch2 in rem {
             if ch == ch2 {
-                return false
+                return false;
             }
         }
     }
