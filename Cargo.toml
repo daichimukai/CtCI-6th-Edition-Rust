@@ -1,0 +1,7 @@
+[package]
+name = "ctci_6th_edition"
+version = "0.1.0"
+authors = ["Daichi Mukai <mukai.daichi.37e@kyoto-u.jp>"]
+edition = "2018"
+
+[dependencies]
